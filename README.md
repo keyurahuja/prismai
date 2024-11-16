@@ -77,7 +77,7 @@ If you're a **company** that is **affected by weak password vulnerabilities** in
   
 - **Download and Customize**: Customize and create one pagers with your branding, building upon the base text we have provided.
   
-- **Share and Distribute**: Share these one-pagers with your network, school systems, or other organizations to help spread the word about strong passwords and AI education.
+- **Share and Distribute**: Share these one-pagers with schools and colleges to help spread the word about strong passwords and AI education.
 
 - **Collaborate**: Reach out to us for potential partnerships to expand the reach of this initiative.
 
