@@ -59,9 +59,9 @@ This initiative is particularly relevant for industries that rely on digital inf
 
 ### How Industries Can Link Password Strength to One-Pager Distribution
 
-Companies and industries affected by weak password vulnerabilities can associate the **adoption of strong passwords by their userbase** to **proportionate distribution of AI one-pagers**. For example, industries with large digital infrastructures, such as cybersecurity, e-commerce, and banking, can measure and track the **reduction in cyber attack costs** (e.g., fewer breaches, lower recovery costs) that result from stronger password adoption. These savings can then be reinvested into **distributing more AI learning one-pagers**, further contributing to global AI education efforts.
+Companies and industries affected by weak password vulnerabilities can **associate strong password adoption by their userbase** with **proportionate one-pager distribution**. For example, industries with large digital infrastructures, such as cybersecurity, e-commerce, and banking, can track and measure **the reduction in cyber attack costs** (e.g., fewer breaches, lower recovery costs) that result from stronger password adoption. These **cost savings can then be reinvested into distributing more AI learning one-pagers**, further contributing to global AI education efforts.
 
-This **link between strong password adoption and one-pager distribution** not only enhances digital security but also promotes the broader goal of increasing **AI literacy** across communities.
+This **link between password strength and one-pager distribution** not only enhances digital security but also promotes the broader goal of increasing **AI literacy** across communities.
 
 ## How Companies Affected by Weak Passwords Can Contribute
 
@@ -74,6 +74,8 @@ If you're a **company** that is **affected by weak password vulnerabilities** in
 - **Support Cybersecurity Education**: Use your platform to raise awareness of the importance of strong passwords and cybersecurity habits while promoting AI education to students and future leaders.
 
 ## How to Get Involved
+
+- **Fork this Repository**: If you’re a developer or educator, contribute to improving the base content, or create additional one-pagers on various AI topics.
   
 - **Download and Customize**: Visit our **[one-pager section](#)** to access the base text and customize it with your branding.
   
@@ -83,7 +85,7 @@ If you're a **company** that is **affected by weak password vulnerabilities** in
 
 ## License
 
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
@@ -91,4 +93,4 @@ We thank our collaborators, contributors, and partners who have made this initia
 
 ## Contact
 
-For inquiries, partnerships, or to request customized one-pagers, contact us at [ahuja.keyur@outlook.com].
+For inquiries, partnerships, or to request customized one-pagers, contact us at [email@example.com].
