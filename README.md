@@ -93,3 +93,7 @@ I'm Keyur Ahuja, an author and entrepreneur. I love writing books and building s
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keyur-ahuja/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KeyurAhuja)
 
+## License
+
+This work is marked with CC0 1.0 Universal 
+
