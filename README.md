@@ -6,8 +6,10 @@ Prism AI is an open-source initiative that merges cybersecurity awareness with A
 ## Mission
 Prism AI seeks to achieve two main objectives:
 
-Strengthen cybersecurity globally by promoting strong password habits, reducing the risks associated with weak passwords and security breaches.
-Unlock AI education by providing one-page learning materials on AI, which are freely available for customization by cybersecurity companies, educational institutions, and organizations to help spread awareness and empower students.
+1. Strengthen cybersecurity globally by promoting strong password habits, reducing the risks associated with weak passwords and security breaches.
+
+2. Unlock AI education by providing one-page learning materials on AI, which are freely available for customization by cybersecurity companies, educational institutions, and organizations to help spread awareness and empower students.
+
 By integrating cybersecurity with AI education, we hope to create a safer digital environment while making AI accessible to students worldwide, preparing them for the challenges and opportunities of tomorrow.
 
 ## What is Prism AI?
@@ -15,7 +17,9 @@ Prism AI is a community-driven, open-source project that focuses on:
 
 Cybersecurity Advocacy: We encourage the adoption of strong passwords to reduce vulnerabilities and build a more secure digital ecosystem.
 AI Learning Resources: We provide base text for one-page AI education materials that can be modified and branded by cybersecurity companies, educational institutions, and organizations for distribution to students, schools, and colleges worldwide.
+
 Global Distribution: These AI one-pagers are designed to be customizable, making it easy for companies and organizations to align the content with their branding and messaging while distributing it to their networks.
+
 By encouraging the adoption of strong password practices and distributing easily accessible AI education materials, we aim to create a safer, smarter future for the next generation of students.
 
 ## Why Strong Passwords?
