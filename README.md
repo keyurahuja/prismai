@@ -21,7 +21,7 @@ Prism AI is a free and open-source project that focuses on:
   
 - **AI Learning Resources**: We provide base text for one-page AI education materials that can be modified and branded by cybersecurity companies, educational institutions, and any organization—especially those concerned about **weak passwords** and **digital vulnerabilities**—for distribution to students, schools, and colleges worldwide.
 
-- **Global Distribution**: These AI one-pagers are designed to be customizable, making it easy for companies and organizations to align the content with their branding and messaging while distributing it to their networks.
+- **Global Distribution**: These AI one-pagers are designed to be customizable, making it easy for companies and organizations to align the content with their branding and messaging while distributing it to schools and colleges of their choice globally.
 
 By encouraging the adoption of strong password practices and distributing easily accessible AI education materials, we aim to create a safer, smarter future for the next generation of students.
 
