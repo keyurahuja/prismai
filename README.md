@@ -74,8 +74,6 @@ If you're a **company** that is **affected by weak password vulnerabilities** in
 - **Support Cybersecurity Education**: Use your platform to raise awareness of the importance of strong passwords and cybersecurity habits while promoting AI education to students and future leaders.
 
 ## How to Get Involved
-
-- **Fork this Repository**: If you’re a developer or educator, contribute to improving the base content, or create additional one-pagers on various AI topics.
   
 - **Download and Customize**: Visit our **[one-pager section](#)** to access the base text and customize it with your branding.
   
@@ -87,10 +85,6 @@ If you're a **company** that is **affected by weak password vulnerabilities** in
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-We thank our collaborators, contributors, and partners who have made this initiative possible, including the cybersecurity companies, educational institutions, and individuals helping to make AI education and cybersecurity practices accessible to all.
-
 ## Contact
 
-For inquiries, partnerships, or to request customized one-pagers, contact us at [email@example.com].
+For inquiries, partnerships, or to request customized one-pagers, contact us at [ahuja.keyur@outlook.com].
