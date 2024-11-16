@@ -34,5 +34,7 @@ Global Impact: Through collaboration with organizations, companies, and educator
 If you're a cybersecurity company or organization, here’s how you can help:
 
 Customize and Distribute: Download the base one-pager text, customize it with your branding, and distribute it to schools, colleges, and students.
+
 Collaborate with Educational Institutions: Work with local or global educational institutions to distribute the one-pagers and help students learn about AI in a secure, digital world.
+
 Support Cybersecurity Education: Use your platform to raise awareness of the importance of strong passwords and cybersecurity habits while promoting AI education.
