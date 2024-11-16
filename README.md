@@ -8,12 +8,12 @@ Prism AI seeks to achieve two main objectives:
 
 1. Strengthen cybersecurity globally by promoting strong password habits, reducing the risks associated with weak passwords and security breaches.
 
-2. Unlock AI education by providing one-page learning materials on AI, which are freely available for customization by cybersecurity companies, educational institutions, and organizations to help spread awareness and empower students.
+2. Unlock AI education by providing one-page learning materials on AI, which are freely available for customization by cybersecurity companies to help spread awareness and empower students.
 
 By integrating cybersecurity with AI education, we hope to create a safer digital environment while making AI accessible to students worldwide, preparing them for the challenges and opportunities of tomorrow.
 
 ## What is Prism AI?
-Prism AI is a community-driven, open-source project that focuses on:
+Prism AI is a free and open-source project that focuses on:
 
 Cybersecurity Advocacy: We encourage the adoption of strong passwords to reduce vulnerabilities and build a more secure digital ecosystem.
 AI Learning Resources: We provide base text for one-page AI education materials that can be modified and branded by cybersecurity companies, educational institutions, and organizations for distribution to students, schools, and colleges worldwide.
