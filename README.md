@@ -86,7 +86,7 @@ If you're a **company** that is **affected by weak password vulnerabilities** in
 For inquiries, partnerships, or to request customized one-pagers, contact us at [ahuja.keyur@outlook.com].
 
 ## 🚀 About Me
-I'm Keyur Ahuja, an author and entrepreneur. I have written some books and launched many startups and non-profits till now. You can learn more by visiting my profile.
+I'm Keyur Ahuja, an author and entrepreneur. I love writing books and building startups. You can learn more by visiting my profile.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://keyurahuja.com/)
