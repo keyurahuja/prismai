@@ -81,10 +81,6 @@ If you're a **company** that is **affected by weak password vulnerabilities** in
 
 - **Collaborate**: Reach out to us for potential partnerships to expand the reach of this initiative.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For inquiries, partnerships, or to request customized one-pagers, contact us at [ahuja.keyur@outlook.com].
