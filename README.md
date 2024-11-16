@@ -75,7 +75,7 @@ If you're a **company** that is **affected by weak password vulnerabilities** in
 
 ## How to Get Involved
   
-- **Download and Customize**: Visit our **[one-pager section](#)** to access the base text and customize it with your branding.
+- **Download and Customize**: Customize and create one pagers with your branding, building upon the base text we have provided.
   
 - **Share and Distribute**: Share these one-pagers with your network, school systems, or other organizations to help spread the word about strong passwords and AI education.
 
